@@ -1,6 +1,18 @@
 # Heating-Shell-for-Box-turtle
 Controllable heater for box turtle enclosure using your printer with macros for automatic maintaining humidity or to keep dry your filament 
-Easily wired if BTIO is installed
+***
+***
+Cool Functions
+***
+- Gives status of chamber temp and time remaining in console
+- Custom Temp, Duration (In hours), When timer starts in order to shut down heating (Like a dryer)
+- "Drying temp templates", can be easily edited in macro section
+- Can maintain humidity in chamber (Turns on then off heater if humidity is below X%)
+- Can be canceled in any time
+- Don't interfere with active printing
+- Easily wired if BTIO is installed
+- ***
+***
 ***
 Warnings!!!
 NOT SUITABLE FOR 230V TOO DANGEROUS IF WIRED BADLY !!!!!!!!!
