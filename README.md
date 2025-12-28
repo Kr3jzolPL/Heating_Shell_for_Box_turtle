@@ -33,14 +33,14 @@ If using my inserts for power and canbus
 | XT60H cable to 2 pin | 1       | printer main power 12awg                                                                 |
 | Microfit 4 pin | 1       | if using Microfit inserts only for canbus                                                                 |
 | XT60H with cable | 1       | Power input 12awg                                                                |
-
+***
 Printing
-
+***
 Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it, 
-
+***
 Disclaimer
 NO, Pla won't work and will melt
-
+***
 Supports 
 Use tree supports for saving the filament
 | Name                    | Quantity | Remarks                                                                                  |
