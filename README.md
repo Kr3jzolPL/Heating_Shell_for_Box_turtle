@@ -6,7 +6,6 @@ Cool Functions
 - Gives status of chamber temp and time remaining in console
 - Custom Temp, Duration (In hours), At which temperature timer starts in order to shut down heating (Like a dryer) using "Heat SOAK" Macro
 - One click drying using templates
-- Drying temp templates for "DRY ABS,DRY etc..." , can be easily edited in macro section
 - Can maintain humidity in chamber (Turns on then off heater if humidity is below X%) using "Humidity Soak Auto"
 - Don't interfere with active printing
 - Easily wired if BTIO is installed using Microfit 4 pin for power and Can
