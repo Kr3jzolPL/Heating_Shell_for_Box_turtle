@@ -14,9 +14,11 @@ Bom
 | Thermistor   | 1        | Standard thermistor.                             |
 | BME680 / BME280 | 1       | Sensor for humidity and temp in chamber.                                                                 |
 
+If using my inserts for power and canbus
+
 | Name                    | Quantity | Remarks                                                                                  |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
-If using my inserts for power and canbus
+
 | Microfit 4 pin | 1       | if using Microfit inserts for canbus                                                                 |
 | XT60H | 1       | Power input                                                                  |
 | XT60 1 Male to 2 femalle pararell connector  | 1       | For additional units                                                                  |
