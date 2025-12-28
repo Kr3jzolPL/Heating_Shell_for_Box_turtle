@@ -48,7 +48,7 @@ Bom
 | Wago 5 pin | 2       | Power Distribution   |
 | Spacers | 2 per board   | Spacers for EBB and Mosfet they are in stl folder    |
 
-If using inserts for power and canbus
+If using inserts for power and canbus separately
 ***
 | Name                    | Quantity | Remarks                                                                                  |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
