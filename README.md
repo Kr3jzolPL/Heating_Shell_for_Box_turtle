@@ -44,6 +44,8 @@ Bom
 | BME680 / BME280 | 1       | Sensor for humidity and temp in chamber.                                                                 |
 | JST PH 2.0 4 Pin | 1       | For connecting the BME sensor                                                                 |
 | Microfit 4 pin | 2       | 18 AWG minimum for that config for power and can, second one can be used to add additional turtle or heating unit    |
+| Wago 3 pin | 2       | CanBus Distribution   |
+| Wago 5 pin | 2       | Power Distribution   |
 | Spacers | 2 per board   | Spacers for EBB and Mosfet they are in stl folder    |
 
 If using inserts for power and canbus
@@ -53,6 +55,7 @@ If using inserts for power and canbus
 | XT60H cable to 2 pin | 1       | printer main power 12awg                                                                 |
 | Microfit 4 pin | 1       | if using Microfit inserts only for canbus                                                                 |
 | XT60H with cable | 1       | Power input for heater and EBB 12awg                                                                |
+| Wago 3 pin | 4       | Power Distribution and Can   |
 ***
 Printing :
 - Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it
