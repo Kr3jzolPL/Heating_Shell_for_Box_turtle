@@ -35,7 +35,6 @@ If using my inserts for power and canbus
 | XT60H with cable | 1       | Power input 12awg                                                                |
 ***
 Printing
-***
 Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it, 
 ***
 Disclaimer
@@ -43,7 +42,6 @@ NO, Pla won't work and will melt
 ***
 Supports 
 Use tree supports for saving the filament
-| Name                    | Quantity | Remarks                                                                                  |
-|-------------------------|:----------:|------------------------------------------------------------------------------------------|
+***
 MMU Support
 Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer (I am using orca )
