@@ -3,7 +3,7 @@ Controllable heater for box turtle enclosure using your printer with macros for 
 
 NOT SUITABLE FOR 230V TOO DANGEROUS IF WIRED BADLY !!!!!!!!!
 
-I used bigger wires for future proof, you might get away only with Microfit 4 pin but i highly recommend to use 18 AWG cable for this setup
+I used bigger wires for future proof, you might get away only with Microfit 4 pin for power and canbus but i highly recommend to use 18 AWG cable for this setup,
 i don't recommend to use multiple heating units with that config
 
 Bom
