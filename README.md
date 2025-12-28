@@ -8,11 +8,11 @@ Cool Functions
 - One click drying using templates
 - Drying temp templates for "DRY ABS,DRY etc..." , can be easily edited in macro section
 - Can maintain humidity in chamber (Turns on then off heater if humidity is below X%) using "Humidity Soak Auto"
-- Can be canceled in any time
 - Don't interfere with active printing
 - Easily wired if BTIO is installed
 - Compatible with "Voron skirt inserts" for multiple Power / CAN combination
 - All macro temperature and humidity settings can be easily edited in macro
+- Can be canceled in any time
 ***
 
 ***
