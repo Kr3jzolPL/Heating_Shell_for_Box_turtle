@@ -44,6 +44,7 @@ Bom
 | JST PH 2.0 4 Pin | 1       | For connecting the BME sensor                                                                 |
 | Microfit 4 pin | 2       | 18 AWG minimum for that config for power and can, second one can be used to add additional turtle or heating unit    |
 | Spacers | 2 per board   | Spacers for EBB and Mosfet they are in stl folder    |
+
 If using inserts for power and canbus
 
 | Name                    | Quantity | Remarks                                                                                  |
