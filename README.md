@@ -10,6 +10,7 @@ At 80C heater and 50% power i am getting 45C in chamber
 
 
 ***
+Disclaimer :
 I used bigger wires for future proof, you might get away only with Microfit 4 pin for power and canbus but i highly recommend to use 18 AWG cable for this setup,
 i don't recommend to use multiple heating units with that config
 ***
