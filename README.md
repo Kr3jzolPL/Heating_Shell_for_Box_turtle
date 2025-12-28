@@ -5,7 +5,7 @@ Controllable heater for box turtle enclosure using your printer with macros for 
 
 Bom
 | Name                    | Quantity | Remarks                                                                                  |
-
+|-------------------------|:----------:|------------------------------------------------------------------------------------------|
 | EBB36 | 1        | Mainboard for the system.                        |
 | 400w 15A Mosfet        | 1        | Powering the heater                               |
 | M3 Heated insert | 12       | Heated inserts for fixing stuff.                                                                 |
