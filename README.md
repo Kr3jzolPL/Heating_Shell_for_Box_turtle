@@ -4,7 +4,7 @@ Controllable heater for box turtle enclosure using your printer with macros for 
 Cool Functions
 ***
 - Gives status of chamber temp and time remaining in console
-- Custom Temp, Duration (In hours), When timer starts in order to shut down heating (Like a dryer) using "Heat SOAK" Macro
+- Custom Temp, Duration (In hours), At which temperature timer starts in order to shut down heating (Like a dryer) using "Heat SOAK" Macro
 - One click drying using templates
 - Drying temp templates for "DRY ABS,DRY etc..." , can be easily edited in macro section
 - Can maintain humidity in chamber (Turns on then off heater if humidity is below X%) using "Humidity Soak Auto"
@@ -20,7 +20,7 @@ Cool Functions
 Warnings!!!
 - NOT SUITABLE FOR 230V TOO DANGEROUS IF WIRED BADLY !!!!!!!!!
 - If using ABS don't go over 90C at heater beacause you can melt hot side of the system!!
-- At 80C heater and 50% power i am getting 45C in chamber
+- At 80C heater and 50% power i am getting 45C in chamber, better insulation = better performance
 ***
 ***
 
