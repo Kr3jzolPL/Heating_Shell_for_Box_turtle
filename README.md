@@ -36,4 +36,13 @@ If using my inserts for power and canbus
 
 Printing
 
-Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it, NO, Pla won't work and will melt
+Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it, 
+
+Disclaimer
+NO, Pla won't work and will melt
+
+Supports 
+Use tree supports for saving the filament
+
+MMU Support
+Side Wall and cover can be printed using a mmu system, you need to add colors in your slicer (I am using orca )
