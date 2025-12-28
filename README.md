@@ -1,7 +1,14 @@
 # Heating-Shell-for-Box-turtle
-Controllable heater for box turtle enclosure using your printer with macros for automatic maintaining humidity or drying your filament 
+Controllable heater for box turtle enclosure using your printer with macros for automatic maintaining humidity or to keep dry your filament 
+Easily wired if BTIO is installed
 
+Warnings!!!
 NOT SUITABLE FOR 230V TOO DANGEROUS IF WIRED BADLY !!!!!!!!!
+If using ABS don't go over 90C at heater beacause you can melt hot side of the system!!
+At 80C heater and 50% power i am getting 45C in chamber
+
+
+
 
 I used bigger wires for future proof, you might get away only with Microfit 4 pin for power and canbus but i highly recommend to use 18 AWG cable for this setup,
 i don't recommend to use multiple heating units with that config
@@ -27,3 +34,6 @@ If using my inserts for power and canbus
 | Microfit 4 pin | 1       | if using Microfit inserts only for canbus                                                                 |
 | XT60H with cable | 1       | Power input 12awg                                                                |
 
+Printing
+
+Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it, NO, Pla won't work and will melt
