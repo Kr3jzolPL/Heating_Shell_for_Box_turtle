@@ -1,7 +1,6 @@
 # Heating-Shell-for-Box-turtle
 Controllable heater for box turtle enclosure using your printer with macros for automatic maintaining humidity or to keep dry your filament 
 ***
-***
 Cool Functions
 ***
 - Gives status of chamber temp and time remaining in console
