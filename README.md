@@ -14,7 +14,7 @@ Bom
 | M3 Heated insert | 12       | Heated inserts for fixing stuff.                                                                 |
 | M3 Screws | 12       | for Fixing stuff in place.                                                                 |
 | PTC Heater 150 watt        | 1        | Main heater 24VDC Heater +24VDC fan, don't even try to use 230V !!                  |
-| Thermistor   | 1        | Standard thermistor.                             |
+| Thermistor   | 1        | Standard thermistor i used DollaTek HT-NTC100K                             |
 | BME680 / BME280 | 1       | Sensor for humidity and temp in chamber.                                                                 |
 | JST PH 2.0 4 Pin | 1       | For connecting the BME sensor                                                                 |
 | Microfit 4 pin | 2       | 18 AWG minimum for that config for power and can                    |
