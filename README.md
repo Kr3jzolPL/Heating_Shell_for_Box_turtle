@@ -46,7 +46,7 @@ Bom
 | Spacers | 2 per board   | Spacers for EBB and Mosfet they are in stl folder    |
 
 If using inserts for power and canbus
-
+***
 | Name                    | Quantity | Remarks                                                                                  |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
 | XT60H cable to 2 pin | 1       | printer main power 12awg                                                                 |
