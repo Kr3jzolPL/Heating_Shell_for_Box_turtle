@@ -43,7 +43,7 @@ Bom
 | Thermistor for heater   | 1        | Standard thermistor i used DollaTek HT-NTC100K                             |
 | BME680 / BME280 | 1       | Sensor for humidity and temp in chamber.                                                                 |
 | JST PH 2.0 4 Pin | 1       | For connecting the BME sensor                                                                 |
-| Microfit 4 pin | 2       | 18 AWG minimum for that config for power and can                    |
+| Microfit 4 pin | 2       | 18 AWG minimum for that config for power and can, second one can be used to add additional turtle or heating unit    |
 
 If using inserts for power and canbus
 
