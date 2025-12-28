@@ -69,3 +69,9 @@ Supports :
 ***
 MMU Support :
 - Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer
+***
+***
+Wiring
+***
+- Wiring and assembly are in Wiki tab
+***
