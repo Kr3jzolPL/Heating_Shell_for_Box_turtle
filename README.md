@@ -44,4 +44,4 @@ Supports :
 Use tree supports for saving the filament
 ***
 MMU Support :
-Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer (I am using orca )
+Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer
