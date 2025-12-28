@@ -12,7 +12,7 @@ Cool Functions
 - Don't interfere with active printing
 - Easily wired if BTIO is installed
 - Compatible with "Voron skirt inserts" for multiple Power / CAN combination
-- All macro temperature and humidity can be easily edited in macro
+- All macro temperature and humidity settings can be easily edited in macro
 ***
 
 ***
