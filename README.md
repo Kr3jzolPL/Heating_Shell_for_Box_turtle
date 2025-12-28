@@ -4,13 +4,14 @@ Controllable heater for box turtle enclosure using your printer with macros for 
 Cool Functions
 ***
 - Gives status of chamber temp and time remaining in console
-- Custom Temp, Duration (In hours), When timer starts in order to shut down heating (Like a dryer)
-- "Drying temp templates", can be easily edited in macro section
-- Can maintain humidity in chamber (Turns on then off heater if humidity is below X%)
+- Custom Temp, Duration (In hours), When timer starts in order to shut down heating (Like a dryer) using "Heat SOAK" Macro
+- "Drying temp templates" for "DRY ABS,DRY etc..." , can be easily edited in macro section
+- Can maintain humidity in chamber (Turns on then off heater if humidity is below X%) using "Humidity Soak Auto"
 - Can be canceled in any time
 - Don't interfere with active printing
 - Easily wired if BTIO is installed
 - Compatible with "Voron skirt inserts" for multiple Power / CAN combination
+- All macro temperature and humidity can be easily edited in macro
 ***
 
 ***
