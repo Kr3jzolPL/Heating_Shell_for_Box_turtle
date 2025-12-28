@@ -11,7 +11,7 @@ Cool Functions
 - Can be canceled in any time
 - Don't interfere with active printing
 - Easily wired if BTIO is installed
-- ***
+***
 ***
 ***
 Warnings!!!
