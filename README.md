@@ -20,6 +20,7 @@ Warnings!!!
 - NOT SUITABLE FOR 230V TOO DANGEROUS IF WIRED BADLY !!!!!!!!!
 - If using ABS don't go over 90C at heater beacause you can melt hot side of the system!!
 - At 80C heater and 50% power i am getting 45C in chamber, better insulation = better performance
+- You might need to change PSU 150Watt Heater at 50% power consume about 100 Watts  , i have MeanWell RSP 500-24V from old Ender 5 Plus, works good
 ***
 ***
 
