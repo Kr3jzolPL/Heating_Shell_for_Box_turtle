@@ -34,14 +34,14 @@ If using my inserts for power and canbus
 | Microfit 4 pin | 1       | if using Microfit inserts only for canbus                                                                 |
 | XT60H with cable | 1       | Power input 12awg                                                                |
 ***
-Printing
+Printing :
 Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it, 
 ***
-Disclaimer
+Disclaimer :
 NO, Pla won't work and will melt
 ***
-Supports 
+Supports :
 Use tree supports for saving the filament
 ***
-MMU Support
+MMU Support :
 Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer (I am using orca )
