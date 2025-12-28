@@ -5,7 +5,7 @@ Cool Functions
 ***
 - Gives status of chamber temp and time remaining in console
 - Custom Temp, Duration (In hours), When timer starts in order to shut down heating (Like a dryer) using "Heat SOAK" Macro
-- "Drying temp templates" for "DRY ABS,DRY etc..." , can be easily edited in macro section
+- Drying temp templates for "DRY ABS,DRY etc..." , can be easily edited in macro section
 - Can maintain humidity in chamber (Turns on then off heater if humidity is below X%) using "Humidity Soak Auto"
 - Can be canceled in any time
 - Don't interfere with active printing
