@@ -10,6 +10,7 @@ Cool Functions
 - Can be canceled in any time
 - Don't interfere with active printing
 - Easily wired if BTIO is installed
+- Compatible with "Voron skirt inserts" for multiple power / can combination
 ***
 
 ***
@@ -42,7 +43,7 @@ Bom
 | JST PH 2.0 4 Pin | 1       | For connecting the BME sensor                                                                 |
 | Microfit 4 pin | 2       | 18 AWG minimum for that config for power and can                    |
 
-If using my inserts for power and canbus
+If using inserts for power and canbus
 
 | Name                    | Quantity | Remarks                                                                                  |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
