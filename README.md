@@ -36,7 +36,7 @@ Bom
 | Name                    | Quantity | Remarks                                                                                  |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
 | BTT EBB36 | 1        | Mainboard for the system.                        |
-| 400w 15A Mosfet        | 1        | Powering the heater                               |
+| 400w 15A Mosfet        | 1        | Powering the heater, you will need to drill 3mm holes for fixing it                      |
 | M3 Heated insert | 12       | Heated inserts for fixing stuff.                                                                 |
 | M3 Screws | 12       | for Fixing stuff in place.                                                                 |
 | PTC Heater 150 watt        | 1        | Main heater 24VDC Heater +24VDC fan, don't even try to use 230V !!                  |
