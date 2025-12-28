@@ -43,6 +43,7 @@ NO, Pla won't work and will melt
 
 Supports 
 Use tree supports for saving the filament
-
+| Name                    | Quantity | Remarks                                                                                  |
+|-------------------------|:----------:|------------------------------------------------------------------------------------------|
 MMU Support
-Side Wall and cover can be printed using a mmu system, you need to add colors in your slicer (I am using orca )
+Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer (I am using orca )
