@@ -53,7 +53,7 @@ If using inserts for power and canbus separately
 | Name                    | Quantity | Remarks                                                                                  |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
 | XT60H cable to 2 pin | 1       | printer main power 12awg                                                                 |
-| Microfit 4 pin | 1       | if using Microfit inserts only for canbus                                                                 |
+| Microfit 4 pin | 2       | if using Microfit inserts only for canbus                                                                 |
 | XT60H with cable | 1       | Power input for heater and EBB 12awg                                                                |
 | Wago 3 pin | 4       | Power Distribution and Can   |
 ***
