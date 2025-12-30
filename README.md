@@ -25,10 +25,9 @@ Warnings!!!
 ***
 
 ***
-***
 Disclaimer :
-- I used bigger wires for future proof, you might get away only with Microfit 4 pin for power and canbus but i highly recommend to use 18 AWG cable for this setup,
-- i don't recommend to use multiple heating units with that config
+- I highly recommend to use 18 AWG cable for this setup,
+- i don't recommend to use multiple heating units with that config at same time
 ***
 ***
 
@@ -48,14 +47,6 @@ Bom
 | Wago 5 pin | 2       | Power Distribution   |
 | Spacers | 2 per board   | Spacers for EBB and Mosfet they are in stl folder    |
 
-If using inserts for power and canbus separately
-***
-| Name                    | Quantity | Remarks                                                                                  |
-|-------------------------|:----------:|------------------------------------------------------------------------------------------|
-| XT60H cable to 2 pin | 1       | printer main power 12awg                                                                 |
-| Microfit 4 pin | 2       | if using Microfit inserts only for canbus                                                                 |
-| XT60H with cable | 1       | Power input for heater and EBB 12awg                                                                |
-| Wago 3 pin | 4       | Power Distribution and Can   |
 ***
 Printing :
 - Print files at least in ABS, hot and cold side can be printed using much more temperature ressistant filament but i didn't tested it
