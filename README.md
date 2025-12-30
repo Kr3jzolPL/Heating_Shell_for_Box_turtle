@@ -66,6 +66,7 @@ Disclaimer :
 ***
 Supports :
 - Use tree supports for saving the filament in Side Wall, Cold Side and Hot side
+- You can use brim while printin left mount and right for better bed adhesion
 ***
 MMU Support :
 - Side Wall and cover can be printed using a MMU system, you need to add colors in your slicer
