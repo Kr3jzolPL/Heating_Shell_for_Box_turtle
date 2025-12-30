@@ -27,7 +27,8 @@ Warnings!!!
 ***
 Disclaimer :
 - I highly recommend to use 18 AWG cable for this setup,
-- i don't recommend to use multiple heating units with that config at same time
+- If you are getting PTC Heater bigger than 150 Watt power you might need to change to bigger wires
+- I don't recommend to use multiple heating units with that config at same time
 ***
 ***
 
